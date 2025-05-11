@@ -185,7 +185,7 @@ Represents completed transactions for bookings.
 * **Booking ←→ Payment**: One-to-One (Each booking has one payment record)
 
 ---
-## Feature breakdown
+## Feature Breakdown
 This section outlines the key features of the Airbnb Clone Project and how each contributes to creating a full-stack, real-world application.
 
 
