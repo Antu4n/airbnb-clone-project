@@ -53,4 +53,4 @@
 	- sent_at: TIMESTAMP, DEFAULT CURRENT_TIMESTAMP  
  
 ## ER DIAGRAM
-![Image](https://github.com/user-attachments/assets/11ee9269-7227-4d98-a0b7-094f7d862cee)
+![Image](https://github.com/user-attachments/assets/32c168ed-9bec-403c-b682-4cd6db278493)
