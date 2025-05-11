@@ -51,3 +51,6 @@
 	- recipient_id: Foreign Key, references User(user_id)  
 	- message_body: TEXT, NOT NULL  
 	- sent_at: TIMESTAMP, DEFAULT CURRENT_TIMESTAMP  
+ 
+## ER DIAGRAM
+![Image](https://github.com/user-attachments/assets/11ee9269-7227-4d98-a0b7-094f7d862cee)
